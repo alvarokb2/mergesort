@@ -28,21 +28,7 @@ int compareInt(const int* __a, const int* __b){
 }
 
 int main(int argc, char** argv) {
-/*
-    lista Lista;
 
-    Lista.Add(3);
-    Lista.Add(6);
-    Lista.Add(2);
-    Lista.Add(4);
-    Lista.Add(2);
-    Lista.Add(1);
-    Lista.Add(3);
-
-    Lista.Mostrar(ASCENDENTE);
-    
-    Lista.MergeSort(Lista.getPlista());
-    */
     Array<int> v(5);
     v[0] = 6;
     v[1] = 1;
