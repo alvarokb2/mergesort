@@ -1,6 +1,4 @@
-build/Debug/GNU-Linux-x86/main.o: main.cpp lista.h mergesort.h array.h
-
-lista.h:
+build/Debug/GNU-Linux-x86/main.o: main.cpp mergesort.h array.h
 
 mergesort.h:
 

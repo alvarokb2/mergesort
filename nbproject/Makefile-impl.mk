@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=mergesortex1
+PROJECTNAME=mergesort
 
 # Active Configuration
 DEFAULTCONF=Debug
