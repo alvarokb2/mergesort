@@ -1,10 +1,3 @@
-/* 
- * File:   mergesort.h
- * Author: alvarokb2
- *
- * Created on 8 de mayo de 2015, 13:35
- */
-
 #ifndef MERGESORT_H
 #define	MERGESORT_H
 
